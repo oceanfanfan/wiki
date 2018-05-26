@@ -27,6 +27,7 @@ Getting TRX
 -------------
 
 Many exchanges has listed TRX, you can get TRX through these exchanges:
+
 Binance https://www.binance.com
 Bittrex https://bittrex.com
 Upbit https://upbit.com/home
@@ -50,4 +51,9 @@ Gatecoin https://www.gatecoin.com
 
 Sending TRX
 -----------
+
+The TRON wallet supports sending TRX via a graphical interface.
+
+There are five types of wallet you can choose to use: web-wallet, android/ios wallet, mac wallet, windows wallet and chrome extension wallet. On 6.25 all wallets will be recommended by Tron foundation on tron.network
+
 
